@@ -1,0 +1,2 @@
+from exceptions.membernotfoundexception import MemberNotFoundException
+from exceptions.memberalreadyexistsexception import MemberAlreadyExistsException
